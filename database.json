@@ -1,0 +1,774 @@
+{
+  "users": {
+    "6281946537020@s.whatsapp.net": {
+      "exp": 10000010000010453000,
+      "limit": 109,
+      "registered": false,
+      "lastclaim": 1647776313171,
+      "name": "Viky",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 87,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hikarigakka III",
+      "joincount": 0,
+      "call": 0,
+      "pc": 1648186430996,
+      "reward": 1,
+      "dailyReward": 14,
+      "warning": 0,
+      "lastbansos": 1647515116843
+    },
+    "6281334188245@s.whatsapp.net": {
+      "exp": 449,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "Ibu Viky~",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 1648186463304,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    },
+    "628974534597@s.whatsapp.net": {
+      "exp": 812,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "Mbak Dini",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 1647665912447,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    },
+    "6285735980188@s.whatsapp.net": {
+      "exp": 102983,
+      "limit": 10,
+      "registered": true,
+      "lastclaim": 0,
+      "name": "Manusia",
+      "age": 50,
+      "regTime": 1647488472751,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 12,
+      "premium": true,
+      "premiumTime": 543087590335735200000,
+      "role": "Hyaktaku III",
+      "joincount": 0,
+      "call": 0,
+      "pc": 1648186647771,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0,
+      "lastbansos": 1647593685213
+    },
+    "628975056328@s.whatsapp.net": {
+      "exp": 245,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "KyBot",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 0,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    },
+    "6287853197790@s.whatsapp.net": {
+      "exp": 181,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "Mbak Dini XL",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 0,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    }
+  },
+  "chats": {
+    "6281946537020@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "628975056328@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "6281334188245@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "6285735980188@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "628974534597@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "120363021128623678@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "6287853197790@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    },
+    "120363041028015595@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 118,
+      "success": 118,
+      "last": 1648189300476,
+      "lastSuccess": 1648189300476
+    },
+    "botstat.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1647516071429,
+      "lastSuccess": 1647516071429
+    },
+    "creator.js": {
+      "total": 11,
+      "success": 3,
+      "last": 1647515056765,
+      "lastSuccess": 1647515056765
+    },
+    "donasi.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1648187979009,
+      "lastSuccess": 1648187979009
+    },
+    "sticker.js": {
+      "total": 28,
+      "success": 23,
+      "last": 1647694244442,
+      "lastSuccess": 1647694244442
+    },
+    "family100.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1647517126871,
+      "lastSuccess": 0
+    },
+    "siapakahaku.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1647593763900,
+      "lastSuccess": 1647593763900
+    },
+    "asahotak.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647432632601,
+      "lastSuccess": 1647432632601
+    },
+    "siapakahaku_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647432651257,
+      "lastSuccess": 1647432651257
+    },
+    "tebakbendera.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647432666201,
+      "lastSuccess": 0
+    },
+    "tebakkota.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647432691225,
+      "lastSuccess": 0
+    },
+    "leaderboard.js": {
+      "total": 36,
+      "success": 36,
+      "last": 1648186556308,
+      "lastSuccess": 1648186556308
+    },
+    "speed.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647433616269,
+      "lastSuccess": 1647433616269
+    },
+    "register.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1647491538830,
+      "lastSuccess": 1647491538830
+    },
+    "levelup.js": {
+      "total": 8,
+      "success": 5,
+      "last": 1647776256632,
+      "lastSuccess": 1647776256632
+    },
+    "daily.js": {
+      "total": 7,
+      "success": 6,
+      "last": 1647776313172,
+      "lastSuccess": 1647776313172
+    },
+    "getplugin.js": {
+      "total": 20,
+      "success": 20,
+      "last": 1647595541249,
+      "lastSuccess": 1647595541249
+    },
+    "toimg.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1647694089138,
+      "lastSuccess": 1647694089138
+    },
+    "cheat.js": {
+      "total": 22,
+      "success": 21,
+      "last": 1647776331221,
+      "lastSuccess": 1647776331221
+    },
+    "limit.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1647641391914,
+      "lastSuccess": 1647641391914
+    },
+    "event-reward.js": {
+      "total": 5,
+      "success": 4,
+      "last": 1647641372465,
+      "lastSuccess": 1647641372465
+    },
+    "salat.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647467753282,
+      "lastSuccess": 0
+    },
+    "snk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647487644109,
+      "lastSuccess": 1647487644109
+    },
+    "meme.js": {
+      "total": 5,
+      "success": 1,
+      "last": 1647594359715,
+      "lastSuccess": 1647594359715
+    },
+    "darkjoke.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1647594418256,
+      "lastSuccess": 1647594418256
+    },
+    "ssweb.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1647492678341,
+      "lastSuccess": 1647492678341
+    },
+    "resetuser.js": {
+      "total": 16,
+      "success": 16,
+      "last": 1648186562262,
+      "lastSuccess": 1648186562262
+    },
+    "tebakkata.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647490846714,
+      "lastSuccess": 0
+    },
+    "math.js": {
+      "total": 10,
+      "success": 9,
+      "last": 1647593688369,
+      "lastSuccess": 1647593688369
+    },
+    "referal.js": {
+      "total": 5,
+      "success": 4,
+      "last": 1647491599501,
+      "lastSuccess": 1647491548503
+    },
+    "addprem.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1647492023727,
+      "lastSuccess": 1647492023727
+    },
+    "profile.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1647574602887,
+      "lastSuccess": 1647574602887
+    },
+    "alive.js": {
+      "total": 7,
+      "success": 0,
+      "last": 1647594661964,
+      "lastSuccess": 0
+    },
+    "mediafire.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647492512301,
+      "lastSuccess": 0
+    },
+    "bucin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647492928886,
+      "lastSuccess": 1647492928886
+    },
+    "bansos.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1647593685213,
+      "lastSuccess": 1647593685213
+    },
+    "upload.js": {
+      "total": 9,
+      "success": 3,
+      "last": 1647515947809,
+      "lastSuccess": 1647515947809
+    },
+    "buylimit.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647516109174,
+      "lastSuccess": 1647516109174
+    },
+    "stickernobg.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1647516418116,
+      "lastSuccess": 0
+    },
+    "caklontong.js": {
+      "total": 18,
+      "success": 18,
+      "last": 1647732158537,
+      "lastSuccess": 1647732158537
+    },
+    "caklontong_hint.js": {
+      "total": 18,
+      "success": 18,
+      "last": 1647732175297,
+      "lastSuccess": 1647732175297
+    },
+    "tts.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647517493728,
+      "lastSuccess": 0
+    },
+    "tictactoe.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1647517538154,
+      "lastSuccess": 1647517538154
+    },
+    "anonymous_chat.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1647519460435,
+      "lastSuccess": 1647519460435
+    },
+    "tekateki.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1647660269580,
+      "lastSuccess": 1647660269580
+    },
+    "tekateki_hint.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1647660281447,
+      "lastSuccess": 1647660281447
+    },
+    "tebakumur.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647520466497,
+      "lastSuccess": 1647520466497
+    },
+    "shaun_the_sheep_photo.js": {
+      "total": 20,
+      "success": 8,
+      "last": 1648186605717,
+      "lastSuccess": 1648186605717
+    },
+    "translate.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1647595339871,
+      "lastSuccess": 1647595339871
+    },
+    "hlh.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1648186671769,
+      "lastSuccess": 1648186671769
+    },
+    "tebaklagu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647594791895,
+      "lastSuccess": 1647594791895
+    },
+    "tebaklagu_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647594810574,
+      "lastSuccess": 1647594810574
+    },
+    "simsimi.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1647594886058,
+      "lastSuccess": 1647594886058
+    },
+    "tebaklirik.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647594926702,
+      "lastSuccess": 1647594926702
+    },
+    "stickermeme.js": {
+      "total": 7,
+      "success": 5,
+      "last": 1647595219719,
+      "lastSuccess": 1647595219719
+    },
+    "cuaca.js": {
+      "total": 8,
+      "success": 4,
+      "last": 1647595365193,
+      "lastSuccess": 1647595365193
+    },
+    "aksara.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1647595450263,
+      "lastSuccess": 0
+    },
+    "dare.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647595558069,
+      "lastSuccess": 1647595558069
+    },
+    "idfreefire.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647595666418,
+      "lastSuccess": 0
+    },
+    "voicechanger.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647595693526,
+      "lastSuccess": 1647595693526
+    },
+    "setbotname.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647595798794,
+      "lastSuccess": 1647595798794
+    },
+    "database.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647595833426,
+      "lastSuccess": 1647595833426
+    },
+    "clear.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1647596024980,
+      "lastSuccess": 1647596024980
+    },
+    "enphoto360.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647596049535,
+      "lastSuccess": 0
+    },
+    "tebakkimia.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647596895204,
+      "lastSuccess": 1647596895204
+    },
+    "tebakkimia_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647596904718,
+      "lastSuccess": 1647596904718
+    },
+    "sewabot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1647732104957,
+      "lastSuccess": 1647732104957
+    },
+    "join.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1647732138444,
+      "lastSuccess": 0
+    },
+    "enable.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1648187453905,
+      "lastSuccess": 0
+    },
+    "apakah.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1648187998405,
+      "lastSuccess": 1648187998405
+    },
+    "siapakah2.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1648188027873,
+      "lastSuccess": 1648188027873
+    },
+    "kapankah.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1648188045437,
+      "lastSuccess": 1648188045437
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6281334188245@s.whatsapp.net": {
+      "anon": true,
+      "anticall": true,
+      "antispam": true,
+      "antitroli": true,
+      "group": false,
+      "jadibot": false,
+      "private": false,
+      "restrict": false,
+      "self": false,
+      "backup": true,
+      "backupDB": 1647404632975,
+      "statusUpdate": false,
+      "status": 1647404639624
+    },
+    "628975056328@s.whatsapp.net": {
+      "anon": true,
+      "anticall": true,
+      "antispam": true,
+      "antitroli": true,
+      "group": false,
+      "jadibot": false,
+      "private": false,
+      "restrict": false,
+      "self": false,
+      "backup": true,
+      "backupDB": 1648186317651,
+      "statusUpdate": false,
+      "status": 1648189281351
+    }
+  }
+}

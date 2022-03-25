@@ -1,0 +1,30 @@
+const fetch = require('node-fetch')
+let handler = async (m, { conn, text, usedPrefix, command }) => {
+
+    if (!text) return m.reply(`contoh:\n${usedPrefix + command} jakarta`)
+    let res = await fetch(global.API('xteam', '/jadwalsholat', { kota: text }, 'APIKEY'))
+    if (res.status !== 200) throw await res.text()
+    let json = await res.json()
+    if (!json.status) {
+        if (json.message == 'use of apikey reached the limit') throw json
+      m.reply(`
+┌ *Kota ${text}*
+│ Kota = ${json.kota}
+│ Tanggal = ${json.tanggal}
+│ Subuh = ${json.subuh}
+│ Dzuhur = ${json.dzuhur}
+│ Ashar = ${json.ashar}
+│ Magrib = ${json.maghrib}
+│ Isha = ${json.isha}
+└────`.trim())
+        throw true
+    }
+    m.reply(`Jadwal Sholat ${text}\n\n${json.tanggal}\n\n${json subuh}\n\n${json.dzuhur}\n\n${json.ashar}\n\n${json.maghrib}\n\n${json.isha}`.trim())
+
+}
+        
+handler.help = ['salat <daerah>']
+handler.tags = ['quran']
+handler.command = /^(jadwal)?s(a|o|ha|ho)lat$/i
+
+module.exports = handler
